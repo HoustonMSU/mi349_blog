@@ -1,0 +1,29 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     margin: 38px;
+     padding: 40px;
+     color: black;
+     border-top: 10px solid black;
+     background: white;
+}
+
+h1
+{
+ font-size: 3em;
+ margin: 0;
+}
+
+p
+{
+ line-height: 1.2em;
+}
+
+#blog 
+{
+border-top: 2px solid black;
+}
+
+.blog-post 
+{
+border-bottom: 2px solid black;
+}
