@@ -27,3 +27,26 @@ border-top: 2px solid black;
 {
 border-bottom: 2px solid black;
 }
+
+section {
+    background: #eeeeee;
+    display: flex;
+}
+
+article{
+    background: #cccaac;
+    padding: 20px;
+    margin: 20px;
+}
+
+.sticky {
+    background: whitesmoke;
+}
+
+.img-container {
+    background:ghostwhite;
+    width: 100px;
+    height: -1px;
+    float: bottom;
+    margin-left: 0px;
+}
