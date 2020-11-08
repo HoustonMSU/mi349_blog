@@ -50,3 +50,10 @@ article{
     float: bottom;
     margin-left: 0px;
 }
+
+@media (max-width: 400px)
+{
+    #c1 {
+        background: red;
+    }
+}
